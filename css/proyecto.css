@@ -1,0 +1,31 @@
+
+/* ACLARACIONES:
+   Las dos páginas que son responsive en mobile son:
+   Inicio (index.html)
+   Links (links.html)
+
+   Son responsive para un ancho menor a 576px (sm de bootstrap)
+
+*/
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+  }
+
+p {
+    text-align : center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 0px;  
+    border-bottom: none; 
+}
+
+
+
+
+
+
+
